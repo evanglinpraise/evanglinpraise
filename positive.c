@@ -1,5 +1,5 @@
 #include<stdio.h>
-void main()
+main()
 {
   int n;
   printf("\n enter the number :");
@@ -9,7 +9,7 @@ void main()
   }
   if(n=0)
     {
-  printf("\n it is the boundary condition");
+  printf("\n itis zero");
   }
   if(n>0)
     {
